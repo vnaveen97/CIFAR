@@ -6,7 +6,7 @@ and one test batch, each with 10000 images. The test batch contains exactly 1000
 from each class. The training batches contain the remaining images in random order, but some training
 batches may contain more images from one class than another. Between them, the training batches contain
 exactly 5000 images from each class.
-#### Sample images from the Dataset
-https://www.cs.toronto.edu/~kriz/cifar-10-sample/cat7.png
+#### More information about the Dataset
+https://www.cs.toronto.edu/~kriz/cifar.html
 #### CIFAR Dataset - Python
 https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
